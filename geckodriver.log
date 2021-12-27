@@ -1,0 +1,46 @@
+1640250775276	geckodriver	INFO	Listening on 127.0.0.1:52736
+1640250778317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\MIMO\\AppData\\Local\\Temp\\rust_mozprofileMMjbEx"
+1640250779559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MIMO\\AppData\\Local\\Temp\\rust_mozprofileMMjbEx\\search.json.mozlz4", (void 0)))
+1640250784619	Marionette	INFO	Listening on port 52745
+1640250784916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/bdCDp/GU/L6/eIpe/7phqYi5/L9h5NcXr/TisvAQ/Lw/kIc1NrIFEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640250788503	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1640250809811	Marionette	INFO	Stopped listening on port 52745
+[Parent 15736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1640250868055	geckodriver	INFO	Listening on 127.0.0.1:54094
+1640250871086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\MIMO\\AppData\\Local\\Temp\\rust_mozprofileZUW6q3"
+1640250871809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MIMO\\AppData\\Local\\Temp\\rust_mozprofileZUW6q3\\search.json.mozlz4", (void 0)))
+1640250875273	Marionette	INFO	Listening on port 54102
+1640250875408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.yatra.com/bdCDp/GU/L6/eIpe/7phqYi5/L9h5NcXr/TisvAQ/Lw/kIc1NrIFEB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1640250877898	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1640250890450	Marionette	INFO	Stopped listening on port 54102
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

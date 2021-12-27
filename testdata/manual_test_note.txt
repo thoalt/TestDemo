@@ -1,0 +1,14 @@
+# Lauching the browser website
+# Provice going from location
+# Provice going to location
+# Select the department date
+# Click on filght search button
+# Select the filight 1 stop
+# Verify that the filtered result show flights having only 1 stop
+
+
+# || Tutorial Number || Contents || Link
+||                      || Cross Browser ||
+|| Selenium Python Tutorial #58 || Soft Assertion || https://www.youtube.com/watch?v=feiBsYgGbfQ&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=111
+|| Selenium Python Tutorial #59 || Add Argument Option || https://www.youtube.com/watch?v=dbAxt7qoHRY&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=112
+|| Selenium Python Tutorial #60 || Custom Logger || https://www.youtube.com/watch?v=AUBpTG2iG5I&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=117
